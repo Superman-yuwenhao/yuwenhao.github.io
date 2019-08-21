@@ -12,8 +12,8 @@
 <tr align="center" >
 <td width="200">姓名</td>
 <td width="200">XX</td>
-<td width="200">国籍</td>
-<td width="200">中国</td>
+<td width="100">国籍</td>
+<td width="100">中国</td>
 <td rowspan="5">粘贴相片处</td>
 </tr>
 <tr align="center">

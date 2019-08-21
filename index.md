@@ -29,9 +29,6 @@
       <p><b>毕业学院：吉林工程技术师范学院</b></p>
       <p><b>专业：计算机科学与技术</b></p>
     </td>
-    <td width="25%">
-      <img src="./yuwenhao.png" width="100%">
-    </td>
   </tr>
 </table>
 

@@ -13,8 +13,8 @@
         <tr>
             <td width="300">姓 名：</td>
             <td width="300">婚姻状况：</td>
-            <td width="200">
-      <img src="./yuwenhao.png" width="100%">
+            <td width="25%">
+      <img src="./yuwenhao.png">
     </td>
         </tr>
         <tr>

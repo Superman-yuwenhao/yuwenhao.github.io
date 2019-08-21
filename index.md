@@ -47,7 +47,7 @@
 <tr>
   <td colspan="4">专业：计算机科学与技术</td>
 </tr>
-
+<tr align="center">
 <td colspan="5">个人总结：</td>
 </tr>
 </table>

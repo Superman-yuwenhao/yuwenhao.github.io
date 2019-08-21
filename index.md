@@ -1,10 +1,4 @@
-<!doctype html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <title>个人简历</title>
-</head>
-<body>
+
     <table width="800" border="1" align="center" cellpadding="10" cellspacing="0">
         <caption><h3>个人简历</h3></caption>
         <tr>
@@ -60,5 +54,3 @@
             <td colspan="3">通过英语专业四六，能熟练进行听说读写译</td>
         </tr>
     </table>
-</body>
-</html>

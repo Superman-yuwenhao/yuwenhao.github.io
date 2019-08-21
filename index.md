@@ -52,9 +52,9 @@
     </tr>
     <tr>
       <td colspan="4"><strong>技术掌握</strong>  </br>
-    语言：熟练掌握java语言  </br>
-                      前端：了解html5、javaScript、jQuery、Ajax前端技术</br>
-                      熟练使用：Eclipse工、SVN工具、TeamViewer工具</br>
+    语言：熟练掌握java语言                                 </br>
+                      前端：了解html5、javaScript、jQuery、Ajax前端技术        </br>
+                      熟练使用：Eclipse工、SVN工具、TeamViewer工具   </br>
                       数据库相关：熟练掌握Mysql、Oracle</br>
                       熟练使用Tomcat进行Web应用的开发</br>
                       操作系统：掌握windows</br>

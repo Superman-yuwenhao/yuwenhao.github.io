@@ -51,8 +51,8 @@
       <td colspan="4">公司概况：瑞森教育创建于2006年，是专注职业教育信息化整体解决方案与生命周期服务的生态型互联网公司并参股成立潍坊滨海公共实训基地技术服务有限公司,旗下项目有精品课、校本端、顶岗实习、智慧校园建设、顶岗实习、先后与北京交通大学、山东石化、青海潍坊、长春汽车、辽宁金融学院合作</td>
     </tr>
     <tr>
-      <td colspan="4"><strong>技术掌握</strong>"&lt;/br&gt"
-        语言：熟练掌握java语言"&lt;/br&gt"
+      <td colspan="4"><strong>技术掌握</strong>&lt;/br&gt
+        语言：熟练掌握java语言&lt;/br&gt
         前端：了解html5、javaScript、jQuery、Ajax前端技术
                       熟练使用：Eclipse工具、SVN工具、TeamViewer工具
                       数据库相关：熟练掌握Mysql、Oracle

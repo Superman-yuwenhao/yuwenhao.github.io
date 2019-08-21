@@ -1,76 +1,64 @@
-<html>
+<!doctype html>
+<html lang="zh">
 <head>
-<title>个人简历表</title>
+    <meta charset="UTF-8">
+    <title>个人简历</title>
 </head>
 <body>
-<table border="1" cellpadding="3" cellspacing="3" align="center" bgcolor="#33333">
-<tr align="center" >
-<td align="center" colspan="5">
-<font size="13"><b>个人基本简历</b></font>
-</td>
-</tr>
-<tr align="center" >
-<td width="200">姓名</td>
-<td width="200">XX</td>
-<td width="100">国籍</td>
-<td width="100">中国</td>
-<td rowspan="5">粘贴相片处</td>
-</tr>
-<tr align="center">
-<td>性别</td>
-<td>XX</td>
-<td>年龄</td>
-<td>XX</td>
-</tr>
-<tr align="center">
-<td>目前所在地</td>
-<td>XX</td>
-<td>民族</td>
-<td>XX</td>
-</tr>
-<tr align="center">
-<td>户口所在地</td>
-<td>xx</td>
-<td>身高</td>
-<td>170cm</td>
-</tr>
-<tr align="center">
-<td>学历</td>
-<td>XX</td>
-<td>专业</td>
-<td>XX</td>
-</tr>
-<tr align="center">
-<td rowspan ="9" align="middle">个人工作经历</td>
-<td colspan="4" align="left">公司名称：</td>
-</tr>
-<tr>
-<td colspan="4">担任职务：</td>
-</tr>
-<tr>
-<td colspan="4">工作描述：</td>
-</tr>
-<tr>
-<td colspan="4">离职原因：</td>
-</tr>
-<tr>
-<td colspan="4">---------------------------------------------------</td>
-</tr>
-<tr align="center">
-<td colspan="4" align="left">公司名称：</td>
-</tr>
-<tr>
-<td colspan="4">担任职务：</td>
-</tr>
-<tr>
-<td colspan="4">工作描述：</td>
-</tr>
-<tr>
-<td colspan="4">离职原因：</td>
-</tr>
-<tr>
-<td colspan="5">个人总结：</td>
-</tr>
-</table>
+    <table width="800" border="1" align="center" cellpadding="10" cellspacing="0">
+        <caption><h3>个人简历</h3></caption>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">个人资料</td>
+        </tr>
+        <tr>
+            <td>姓 名：</td>
+            <td>婚姻状况：</td>
+            <td rowspan="5" align="center" valign="middle">照片</td>
+        </tr>
+        <tr>
+            <td>出 生：</td>
+            <td>政治面貌：</td>
+        </tr>
+        <tr>
+            <td>性 别：</td>
+            <td>民 族：</td>
+        </tr>
+        <tr>
+            <td>学 位：</td>
+            <td>移动电话：</td>
+        </tr>
+        <tr>
+            <td>专 业：</td>
+            <td>电子邮件：</td>
+        </tr>
+        <tr>
+            <td colspan="3">地址：</td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">教育背景</td>
+        </tr>
+        <tr>
+            <td>2012.9 - 2014.9</td>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">特长及兴趣爱好</td>
+        </tr>
+        <tr>
+            <td colspan="3">篮球、足球、羽毛球、游泳、旅游</td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">计算机能力</td>
+        </tr>
+        <tr>
+            <td colspan="3">精通html div+css javascript jQuery php linux</td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">外语水平</td>
+        </tr>
+        <tr>
+            <td colspan="3">通过英语专业四六，能熟练进行听说读写译</td>
+        </tr>
+    </table>
 </body>
 </html>

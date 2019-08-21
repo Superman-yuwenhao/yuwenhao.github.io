@@ -13,7 +13,7 @@
         <tr>
             <td>姓 名：</td>
             <td>婚姻状况：</td>
-            <td rowspan="5" align="center" valign="middle">照片</td>
+            <td rowspan="10" align="center" valign="middle">照片</td>
         </tr>
         <tr>
             <td>出 生：</td>

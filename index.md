@@ -10,10 +10,10 @@
       </td>
     </tr>
     <tr align="center">
-      <td width="200">姓名</td>
-      <td width="200">于文昊1</td>
-      <td width="200">国籍</td>
-      <td width="200">中国</td>
+      <td width="100">姓名</td>
+      <td width="100">于文昊1</td>
+      <td width="100">国籍</td>
+      <td width="100">中国</td>
       <td><img src="./yuwenhao.png"></td>
     </tr>
     <tr align="center">

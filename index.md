@@ -52,14 +52,14 @@
     </tr>
     <tr>
       <td colspan="4"><strong>技术掌握</strong>    
-        语言：熟练掌握java语言</br>
-                      前端：了解html5、javaScript、jQuery、Ajax前端技术        </br>
-                      熟练使用：Eclipse工具、SVN工具、TeamViewer工具   </br>
-                      数据库相关：熟练掌握Mysql、Oracle</br>
-                      熟练使用Tomcat进行Web应用的开发</br>
-                      操作系统：掌握windows</br>
-                      系统命令：Linux基础命令</br>
-                      后台框架技术：熟练掌握SSM</br>
+        语言：熟练掌握java语言    
+        前端：了解html5、javaScript、jQuery、Ajax前端技术
+                      熟练使用：Eclipse工具、SVN工具、TeamViewer工具
+                      数据库相关：熟练掌握Mysql、Oracle
+                      熟练使用Tomcat进行Web应用的开发
+                      操作系统：掌握windows
+                      系统命令：Linux基础命令
+                      后台框架技术：熟练掌握SSM
                       前台框架技术：熟练掌握vue.js</td>
     </tr>
     <tr>

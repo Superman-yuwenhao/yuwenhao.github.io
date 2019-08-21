@@ -1,9 +1,6 @@
 
-    <!doctype html>
-<html lang="zh">
 <head>
     <meta charset="UTF-8">
-    <title>个人简历</title>
 </head>
 <body>
     <table width="800" border="1" align="center" cellpadding="10" cellspacing="0">

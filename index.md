@@ -1,34 +1,64 @@
-<table border="0">
-  <tr width="75%">
-    <td>
-      <h1>于文昊</h1>
-      <p><b>性别：男</b></p>
-      <p><b>民族：汉</b></p>
-      <p><b>生日：1992.04.04</b></p>
-      <p><b>身高：178cm</b></p>
-      <p><b>学历：专科</b></p>
-      <p><b>邮箱：yuwenhao31415926@sina.com</b></p>
-      <p><b>住址：沈阳市和平区</b></p>
-      <p><b>毕业学院：吉林工程技术师范学院</b></p>
-      <p><b>专业：计算机科学与技术</b></p>
-    </td>
-    <td>
-      <img src="./yuwenhao.png" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h1>于文昊</h1>
-      <p><b>性别：男</b></p>
-      <p><b>民族：汉</b></p>
-      <p><b>生日：1992.04.04</b></p>
-      <p><b>身高：178cm</b></p>
-      <p><b>学历：专科</b></p>
-      <p><b>邮箱：yuwenhao31415926@sina.com</b></p>
-      <p><b>住址：沈阳市和平区</b></p>
-      <p><b>毕业学院：吉林工程技术师范学院</b></p>
-      <p><b>专业：计算机科学与技术</b></p>
-    </td>
-  </tr>
-</table>
-
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>个人简历</title>
+</head>
+<body>
+    <table width="800" border="1" align="center" cellpadding="10" cellspacing="0">
+        <caption><h3>个人简历</h3></caption>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">个人资料</td>
+        </tr>
+        <tr>
+            <td>姓 名：</td>
+            <td>婚姻状况：</td>
+            <td rowspan="5" align="center" valign="middle">照片</td>
+        </tr>
+        <tr>
+            <td>出 生：</td>
+            <td>政治面貌：</td>
+        </tr>
+        <tr>
+            <td>性 别：</td>
+            <td>民 族：</td>
+        </tr>
+        <tr>
+            <td>学 位：</td>
+            <td>移动电话：</td>
+        </tr>
+        <tr>
+            <td>专 业：</td>
+            <td>电子邮件：</td>
+        </tr>
+        <tr>
+            <td colspan="3">地址：</td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">教育背景</td>
+        </tr>
+        <tr>
+            <td>2012.9 - 2014.9</td>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">特长及兴趣爱好</td>
+        </tr>
+        <tr>
+            <td colspan="3">篮球、足球、羽毛球、游泳、旅游</td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">计算机能力</td>
+        </tr>
+        <tr>
+            <td colspan="3">精通html div+css javascript jQuery php linux</td>
+        </tr>
+        <tr>
+            <td colspan="3" bgcolor="#9FCDEA">外语水平</td>
+        </tr>
+        <tr>
+            <td colspan="3">通过英语专业四六，能熟练进行听说读写译</td>
+        </tr>
+    </table>
+</body>
+</html>

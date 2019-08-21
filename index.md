@@ -40,14 +40,36 @@
 <td>专业</td>
 <td>计算机科学与技术</td>
 </tr>
+</tr>
 <tr align="center">
-  <td rowspan ="9" align="middle">教育背景</td>
-  <td colspan="4" align="left">毕业学院：吉林工程技术师范学院 </td>
+<td rowspan ="9" align="middle">个人工作经历</td>
+<td colspan="4" align="left">公司名称：</td>
 </tr>
 <tr>
-  <td colspan="4">专业：计算机科学与技术</td>
+<td colspan="4">担任职务：</td>
+</tr>
+<tr>
+<td colspan="4">工作描述：</td>
+</tr>
+<tr>
+<td colspan="4">离职原因：</td>
+</tr>
+<tr>
+<td colspan="4">---------------------------------------------------</td>
 </tr>
 <tr align="center">
+<td colspan="4" align="left">公司名称：</td>
+</tr>
+<tr>
+<td colspan="4">担任职务：</td>
+</tr>
+<tr>
+<td colspan="4">工作描述：</td>
+</tr>
+<tr>
+<td colspan="4">离职原因：</td>
+</tr>
+<tr>
 <td colspan="5">个人总结：</td>
 </tr>
 </table>

@@ -10,10 +10,10 @@
 </td>
 </tr>
 <tr align="center" >
-<td width="400">姓名</td>
-<td width="400">XX</td>
-<td width="400">国籍</td>
-<td width="400">中国</td>
+<td width="200">姓名</td>
+<td width="200">XX</td>
+<td width="200">国籍</td>
+<td width="200">中国</td>
 <td rowspan="5">粘贴相片处</td>
 </tr>
 <tr align="center">

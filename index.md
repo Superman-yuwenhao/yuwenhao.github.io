@@ -1,6 +1,6 @@
 <table border="0">
-  <tr>
-    <td width="75%">
+  <tr width="75%">
+    <td>
       <h1>于文昊</h1>
       <p><b>性别：男</b></p>
       <p><b>民族：汉</b></p>
@@ -12,7 +12,7 @@
       <p><b>毕业学院：吉林工程技术师范学院</b></p>
       <p><b>专业：计算机科学与技术</b></p>
     </td>
-    <td width="25%">
+    <td>
       <img src="./yuwenhao.png" width="100%">
     </td>
   </tr>

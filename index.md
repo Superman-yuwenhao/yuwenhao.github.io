@@ -18,27 +18,27 @@
 </tr>
 <tr align="center">
 <td>性别</td>
-<td>XX</td>
-<td>年龄</td>
-<td>XX</td>
+<td>男</td>
+<td>生日</td>
+<td>1992.04.04</td>
 </tr>
 <tr align="center">
 <td>目前所在地</td>
-<td>XX</td>
+<td>沈阳市</td>
 <td>民族</td>
-<td>XX</td>
+<td>汉</td>
 </tr>
 <tr align="center">
 <td>户口所在地</td>
-<td>xx</td>
+<td>山东省</td>
 <td>身高</td>
-<td>170cm</td>
+<td>178cm</td>
 </tr>
 <tr align="center">
 <td>学历</td>
-<td>XX</td>
+<td>大专</td>
 <td>专业</td>
-<td>XX</td>
+<td>计算机科学与技术</td>
 </tr>
 <tr align="center">
 <td rowspan ="9" align="middle">个人工作经历</td>

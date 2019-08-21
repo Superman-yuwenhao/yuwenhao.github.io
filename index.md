@@ -1,76 +1,84 @@
+<!DOCTYPE html>
 <html>
-<head>
-<title>个人简历</title>
-</head>
-<body>
-<table border="1"  cellpadding="3" cellspacing="3" align="center" bgcolor="#33333">
-<tr align="center" >
-<td align="center" colspan="5">
-<font size="13"><b>个人基本简历</b></font>
-</td>
-</tr>
-<tr align="center">
-<td width="150">姓名</td>
-<td width="200">XX</td>
-<td width="150">国籍</td>
-<td width="200">中国</td>
-<td width="200"><img src="./yuwenhao.png"></td>
-</tr>
-<tr align="center">
-<td width="225">性别</td>
-<td width="225">XX</td>
-<td width="225">年龄</td>
-<td width="225">XX</td>
-</tr>
-<tr align="center">
-<td>目前所在地</td>
-<td>XX</td>
-<td>民族</td>
-<td>XX</td>
-</tr>
-<tr align="center">
-<td>户口所在地</td>
-<td>xx</td>
-<td>身高</td>
-<td>170cm</td>
-</tr>
-<tr align="center">
-<td>学历</td>
-<td>XX</td>
-<td>专业</td>
-<td>XX</td>
-</tr>
-<tr align="center">
-<td rowspan ="9" align="middle">个人工作经历</td>
-<td colspan="4" align="left">公司名称：</td>
-</tr>
-<tr>
-<td colspan="4">担任职务：</td>
-</tr>
-<tr>
-<td colspan="4">工作描述：</td>
-</tr>
-<tr>
-<td colspan="4">离职原因：</td>
-</tr>
-<tr>
-<td colspan="4">---------------------------------------------------</td>
-</tr>
-<tr align="center">
-<td colspan="4" align="left">公司名称：</td>
-</tr>
-<tr>
-<td colspan="4">担任职务：</td>
-</tr>
-<tr>
-<td colspan="4">工作描述：</td>
-</tr>
-<tr>
-<td colspan="4">离职原因：</td>
-</tr>
-<tr>
-<td colspan="5">个人总结：</td>
-</tr>
-</table>
-</body>
-</html>
+    <head>
+        <meta charset="utf-8">
+        <title>我的简历</title>
+        <style>
+            table{
+                border-collapse: collapse;
+            }
+            table,td.th{
+                border: 1px solid blue;
+            }
+            
+                a:link {text-decoration:none};
+                a:hover {color:#FF00FF;}
+        </style>
+            <body>
+                <table width="700" height="500" border="1" background="img/bacg.jpg" align="center">
+                    
+    <caption><h3>个人简历</h3></caption>
+    <tr>
+        <td width="90">姓名</td>
+        <td width="100">兰倩</td>
+        <td width="89">出生日期</td>
+        <td width="113">1996.09</td>
+        <td width="91">性别</td>
+        <td width="48">女</td>
+        <td width="121" rowspan="4" background="img/qq.jpg"></td>
+    </tr>
+    <tr>
+        <td>学历</td>
+        <td>本科</td>
+        <td>专业</td>
+        <td>软件工程</td>
+        <td>民族</td>
+        <td>回</td>
+    </tr>
+    <tr>
+        <td>学校</td>
+        <td><a href="http://127.0.0.1:8020/Hbuilder2/index.html" target="_blank"> 宁夏大学</a></td>
+        <td>政治面貌</td>
+        <td>团员</td>
+        <td>联系方式</td>
+        <td>1234567888</td>
+    </tr>
+    <tr>
+        <td>籍贯</td>
+        <td>宁夏银川</td>
+        <td>邮箱</td>
+        <td>2414080461@qq.com</td>
+    </tr>
+    <tr height="100">
+        <td>主修课程</td>
+       <td colspan="6">
+           程序设计与算法语言，计算机调试与维护，离散数学    <br/>
+           面向对象课程设计，虚拟化技术，计算机网络，操作系统，    <br/>
+           数据结构 软件工程 算法与数据挖掘，云计算，编译原理与方法<br/>
+       </td>
+    </tr>
+    <tr>
+        <td>技能证书</td>
+        <td colspan="6">
+            <ul>
+                <li>CET 4</li>
+                <li>计算机二级</li>
+                <li>普通话二甲</li>
+                <li>驾驶证</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>项目经历</td>
+        <td colspan="6"> 
+            <ul>
+                <li>图书管理系统</li>
+                <li>综合测评管理系统</li>
+            </ul>
+    </tr>
+    <tr>
+        <td colspan="7" align="center"><b>自我评价</b></td>
+    </tr>
+    <tr>
+        <td colspan="7" height="200">
+         &nbsp;   我在大学期间任职学习委员，工作认真负责，深受同学

@@ -17,10 +17,10 @@
   <td><img src="./yuwenhao.png"></td>
 </tr>
 <tr align="center">
-<td width="200">性别</td>
-<td width="200">XX</td>
-<td width="200">年龄</td>
-<td width="200">XX</td>
+<td>性别</td>
+<td>XX</td>
+<td>年龄</td>
+<td>XX</td>
 </tr>
 <tr align="center">
 <td>目前所在地</td>

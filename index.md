@@ -6,7 +6,7 @@
 <table border="1" cellpadding="3" cellspacing="3" align="center" bgcolor="#33333">
 <tr align="center" >
 <td align="center" colspan="5">
-<font size="13"><b>个人基本简历1</b></font>
+<font size="13"><b>个人基本简历</b></font>
 </td>
 </tr>
 <tr align="center" >

@@ -13,7 +13,9 @@
         <tr>
             <td width="300">姓 名：</td>
             <td width="300">婚姻状况：</td>
-            <td rowspan="5" align="center" valign="middle">照片</td>
+            <td width="200">
+      <img src="./yuwenhao.png" width="100%">
+    </td>
         </tr>
         <tr>
             <td>出 生：</td>

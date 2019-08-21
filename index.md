@@ -14,7 +14,7 @@
 <td width="150">XX</td>
 <td width="200">国籍</td>
 <td width="150">中国</td>
-  <td><img src="./yuwenhao.png"></td>
+<td><img src="./yuwenhao.png"></td>
 </tr>
 <tr align="center">
 <td>性别</td>

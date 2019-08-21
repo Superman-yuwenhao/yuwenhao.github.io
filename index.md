@@ -11,8 +11,8 @@
             <td colspan="3" bgcolor="#9FCDEA">个人资料</td>
         </tr>
         <tr>
-            <td width="400">姓 名：</td>
-            <td width="400">婚姻状况：</td>
+            <td width="300">姓 名：</td>
+            <td width="300">婚姻状况：</td>
             <td rowspan="5" align="center" valign="middle">照片</td>
         </tr>
         <tr>

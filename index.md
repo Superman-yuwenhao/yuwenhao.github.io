@@ -42,10 +42,10 @@
 </tr>
 <tr align="center">
 <td rowspan ="9" align="middle">个人工作经历</td>
-<td colspan="4" align="left">公司名称：</td>
+<td colspan="4" align="left">公司名称：北京瑞森教育</td>
 </tr>
 <tr>
-<td colspan="4">担任职务：</td>
+<td colspan="4">担任职务：java开发工程师</td>
 </tr>
 <tr>
 <td colspan="4">工作描述：</td>

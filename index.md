@@ -3,7 +3,7 @@
 <title>个人简历</title>
 </head>
 <body>
-<table border="1" cellpadding="3" cellspacing="3" align="center" bgcolor="#33333">
+<table border="0" cellpadding="3" cellspacing="3" align="center" bgcolor="#33333">
 <tr align="center" >
 <td align="center" colspan="5">
 <font size="13"><b>个人基本简历</b></font>
@@ -19,7 +19,7 @@
 <tr align="center">
 <td width="225">性别</td>
 <td width="225">XX</td>
-<td width="225"年龄</td>
+<td width="225">年龄</td>
 <td width="225">XX</td>
 </tr>
 <tr align="center">

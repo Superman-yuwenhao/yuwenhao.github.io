@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：于文昊
+#### 性别：男
+#### 民族：汉
+#### 生日：1992.04.04
+#### 身高：178cm
+#### 学历：专科
+#### 邮箱：yuwenhao31415926@sina.com 
+#### 住址：沈阳市和平区
 
-You can use the [editor on GitHub](https://github.com/Superman-yuwenhao/yuwenhao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育背景
+##### 毕业学院：吉林工程技术师范学院
+##### 专业：计算机科学与技术
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作经验
+#### 2013-09至2017-12 东北特殊钢集团有限责任公司 
+#### 岗位：人事员
+#### 2018-10 - 至今 北京瑞森教育（公司）
+#### 岗位：java开发
 
-### Markdown
+### 公司概况
+#### 瑞森教育创建于2006年，是专注职业教育信息化整体解决方案与生命周期服务的生态型互联网公司并参股成立潍坊滨海公共实训基地技术服务有限公司,旗下项目有#   精品课、校本端、顶岗实习、智慧校园建设、顶岗实习、先后与北京交通大学、山东石化、青海潍坊、长春汽车、辽宁金融学院合作
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 技术掌握
+#### 语言：熟练掌握java语言
+#### 前端：了解html5、javaScript、jQuery、Ajax前端技术
+#### 熟练使用：Eclipse工、SVN工具、TeamViewer工具
+#### 数据库相关：熟练掌握Mysql、Oracle
+#### 熟练使用Tomcat进行Web应用的开发
+#### 操作系统：掌握windows
+#### 系统命令：Linux基础命令
+#### 后台框架技术：熟练掌握SSM
+#### 前台框架技术：熟练掌握vue.js
 
-```markdown
-Syntax highlighted code block
+### 项目经历
+#### 项目名称：教务管理系统
+#### 项目模块：基本信息、培养方案、选课管理、教学安排、考试事务、认证考试、学生成绩、校外考试、权限管理
+#### 项目工程搭建：maven创建base工程、创建jw工程
+#### 项目层面：api层、rpc层、uri层、web层
+#### 项目启动：首先启动zookeeper,然后编写rpc和uri的接口,启动dubbo
+#### 模块任务：培养方案、学生成绩
+#### 项目技术：spring框架、springMVC框架、MyBatis框架
+#### 前端技术: Vue.js前端框架
+#### 工作细节：在岗期间接手辽宁金融学院的项目开发，工作期间和金融学院负责人进行开发沟通，了解整个教务系统的操作流程与业务逻辑，负责培养方案模块、学生成绩模块的开发，辽宁金融学院由我负责部署，在部署上传到TeamViewer之前由我负责测试，确认无bug后由我通过上TeamViewer上传至学院服务器上，再与金融学院确认。
 
-# Header 1
-## Header 2
-### Header 3
+### 自我评价
+#### 为人稳重、大方,认真对待工作,开朗自信,有优良的团队精神,强烈的责任心,良好的沟通能力, 学习能力较强,有较强的上进心,积极适应工作环境, 能处理同事间的关系, 能够与同事共同进步
 
-- Bulleted
-- List
+### 兴趣爱好
+#### 篮球、足球、电影、乒乓球、旅游
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Superman-yuwenhao/yuwenhao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

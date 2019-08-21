@@ -12,9 +12,9 @@
 <tr align="center" >
 <td width="200">姓名</td>
 <td width="100">XX</td>
-<td width="100">国籍</td>
+<td width="200">国籍</td>
 <td width="100">中国</td>
-<td rowspan="5">粘贴相片处</td>
+<td rowspan="7">粘贴相片处</td>
 </tr>
 <tr align="center">
 <td>性别</td>

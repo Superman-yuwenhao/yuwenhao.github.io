@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>个人简历1</title>
+  <title>个人简历</title>
 </head>
 <body>
   <table border="1"  cellpadding="3" cellspacing="3" align="center" bgcolor="#33333">
@@ -11,7 +11,7 @@
     </tr>
     <tr align="center">
       <td width="100">姓名</td>
-      <td width="100">于文昊1</td>
+      <td width="100">于文昊</td>
       <td width="100">国籍</td>
       <td width="100">中国</td>
       <td><img src="./yuwenhao.png"></td>

@@ -1,62 +1,114 @@
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
+    <title>个人简历</title>
 </head>
-<body>
-    <table width="800" border="1" align="center" cellpadding="10" cellspacing="0">
-        <caption><h3>个人简历</h3></caption>
+<body topmargin="0">
+
+    <table width="800" height="800" border="0" cellpadding="0" cellspacing="0" align="center">
         <tr>
-            <td colspan="3" bgcolor="#9FCDEA">个人资料</td>
-        </tr>
-        <tr>
-            <td>姓 名：</td>
-            <td>婚姻状况：</td>
-            <td rowspan="5" align="center" valign="middle">照片</td>
-        </tr>
-        <tr>
-            <td>出 生：</td>
-            <td>政治面貌：</td>
-        </tr>
-        <tr>
-            <td>性 别：</td>
-            <td>民 族：</td>
-        </tr>
-        <tr>
-            <td>学 位：</td>
-            <td>移动电话：</td>
-        </tr>
-        <tr>
-            <td>专 业：</td>
-            <td>电子邮件：</td>
-        </tr>
-        <tr>
-            <td colspan="3">地址：</td>
-        </tr>
-        <tr>
-            <td colspan="3" bgcolor="#9FCDEA">教育背景</td>
-        </tr>
-        <tr>
-            <td>2012.9 - 2014.9</td>
-            <td colspan="2"></td>
-        </tr>
-        <tr>
-            <td colspan="3" bgcolor="#9FCDEA">特长及兴趣爱好</td>
-        </tr>
-        <tr>
-            <td colspan="3">篮球、足球、羽毛球、游泳、旅游</td>
-        </tr>
-        <tr>
-            <td colspan="3" bgcolor="#9FCDEA">计算机能力</td>
-        </tr>
-        <tr>
-            <td colspan="3">精通html div+css javascript jQuery php linux</td>
-        </tr>
-        <tr>
-            <td colspan="3" bgcolor="#9FCDEA">外语水平</td>
-        </tr>
-        <tr>
-            <td colspan="3">通过英语专业四六，能熟练进行听说读写译</td>
+            <td width="260" valign="top" bgcolor="#f2f2f2">
+
+                
+                <table width="200" border="0" cellpadding="0" cellspacing="0" align="center">
+                    <tr>
+                        <td height="100"></td>
+                    </tr>
+                    <tr>
+                        <td align="right"><img src="images/person.png"></td>
+                    </tr>
+                    <tr>
+                        <td align="right">张达山 </td>
+                    </tr>
+                    <tr>
+                        <td align="right">18210898888 </td>
+                    </tr>
+                    <tr>
+                        <td align="right">zhangdasan@126.com</td>
+                    </tr>
+                </table>
+
+
+            </td>
+            <td width="30"></td>
+            <td width="480" valign="top">
+                
+                <table width="480" border="0" cellpadding="0" cellspacing="0">
+                    <tr><td height="80"></td></tr>
+                    <tr>
+                        <td align="right"><img src="images/resume.png"></td>
+                    </tr>
+                </table>
+                <br>
+                <hr />
+                <br>
+
+                <table width="480" height="200" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td colspan="2"><b>个人基本情况</b></td>                    
+                    </tr>
+                    <tr>
+                        <td><b>姓 名：</b>张达山    </td>
+                        <td><b>籍 贯：</b>北京昌平</td>
+                    </tr>
+                    <tr>
+                        <td><b>性 别：</b>男</td>
+                        <td><b>身 高：</b>175cm</td>
+                    </tr>
+                    <tr>
+                        <td><b>民 族：</b>汉</td>
+                        <td><b>体 重：</b>70kg</td>
+                    </tr>
+                    <tr>
+                        <td><b>出生日期：</b>1992.03.28    </td>
+                        <td><b>电 话：</b>18210898888</td>
+                    </tr>
+                    <tr>
+                        <td><b>现居住地：</b>昌平天通苑</td>
+                        <td><b>专 业：</b>工业设计</td>
+                    </tr>
+                </table>
+                <br>
+                <br>
+
+                <table width="480" height="80" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td><b>教育背景及工作经历</b></td>
+                    </tr>
+                    <tr>
+                        <td><b>2008.09-2011.06</b> 北京邮电大学 工业设计专业</td>
+                    </tr>
+                    <tr>
+                        <td><b>2011.06-2012.09</b>北京微创信息科技有限公司 任前端开发工程师</td>
+                    </tr>
+
+
+                </table>
+
+                    <br>
+                <br>
+
+                <table width="480" height="80" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td><b>所获证书</b></td>
+                    </tr>
+                    <tr>
+                        <td><b>2009年：</b> 荣获“高级美术设计师”证书</td>
+                    </tr>
+                    <tr>
+                        <td><b>2009年：</b>荣获“优秀班干部”证书</td>
+                    </tr>
+
+
+                </table>
+
+            </td>
+            <td width="30"></td>
         </tr>
     </table>
+
+
 </body>
 </html>

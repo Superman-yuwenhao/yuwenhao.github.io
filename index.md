@@ -11,7 +11,7 @@
 </tr>
 <tr align="center" >
 <td width="150">姓名</td>
-<td width="200"XX</td>
+<td width="200">XX</td>
 <td width="150">国籍</td>
 <td width="200">中国</td>
 <td><img src="./yuwenhao.png"></td>

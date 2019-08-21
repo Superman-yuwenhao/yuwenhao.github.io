@@ -1,84 +1,130 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>我的简历</title>
-        <style>
-            table{
-                border-collapse: collapse;
-            }
-            table,td.th{
-                border: 1px solid blue;
-            }
-            
-                a:link {text-decoration:none};
-                a:hover {color:#FF00FF;}
-        </style>
-            <body>
-                <table width="700" height="500" border="1" background="img/bacg.jpg" align="center">
-                    
-    <caption><h3>个人简历</h3></caption>
-    <tr>
-        <td width="90">姓名</td>
-        <td width="100">兰倩</td>
-        <td width="89">出生日期</td>
-        <td width="113">1996.09</td>
-        <td width="91">性别</td>
-        <td width="48">女</td>
-        <td width="121" rowspan="4" background="img/qq.jpg"></td>
-    </tr>
-    <tr>
-        <td>学历</td>
-        <td>本科</td>
-        <td>专业</td>
-        <td>软件工程</td>
-        <td>民族</td>
-        <td>回</td>
-    </tr>
-    <tr>
-        <td>学校</td>
-        <td><a href="http://127.0.0.1:8020/Hbuilder2/index.html" target="_blank"> 宁夏大学</a></td>
-        <td>政治面貌</td>
-        <td>团员</td>
-        <td>联系方式</td>
-        <td>1234567888</td>
-    </tr>
-    <tr>
-        <td>籍贯</td>
-        <td>宁夏银川</td>
-        <td>邮箱</td>
-        <td>2414080461@qq.com</td>
-    </tr>
-    <tr height="100">
-        <td>主修课程</td>
-       <td colspan="6">
-           程序设计与算法语言，计算机调试与维护，离散数学    <br/>
-           面向对象课程设计，虚拟化技术，计算机网络，操作系统，    <br/>
-           数据结构 软件工程 算法与数据挖掘，云计算，编译原理与方法<br/>
-       </td>
-    </tr>
-    <tr>
-        <td>技能证书</td>
-        <td colspan="6">
-            <ul>
-                <li>CET 4</li>
-                <li>计算机二级</li>
-                <li>普通话二甲</li>
-                <li>驾驶证</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>项目经历</td>
-        <td colspan="6"> 
-            <ul>
-                <li>图书管理系统</li>
-                <li>综合测评管理系统</li>
-            </ul>
-    </tr>
-    <tr>
-        <td colspan="7" align="center"><b>自我评价</b></td>
-    </tr>
-    <tr>
-        <td colspan="7" height="200">
-         &nbsp;   我在大学期间任职学习委员，工作认真负责，深受同学
+<head>
+	<title>简历二</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/mystyle.css">
+</head>
+<body>
+	<div>
+		
+		<table  width="800" align="center">
+			<tr>
+				
+				<td align="center"><p>个人简历</p>
+				</td>
+				<td >
+					
+				<img src="../img/p.jpg" width="130" height="130" alt="图片" align="right">
+				</td>
+			</tr>
+ 
+ 
+		</table>
+		
+		<table  align="center" width="800">
+			
+			<hr width="700" align="left">
+			<tr>
+				<td>姓名：</td>
+				<td width="100" height="50"></td>
+				
+				<td>性别：</td>
+				<td width="100" height="50"></td>
+				<td>民族：</td>
+				<td width="100" height="50"></td>
+			</tr>
+			<tr>
+				<td>出生年月：</td>
+				<td width="100" height="50"></td>
+				
+				<td>联系电话：</td>
+				<td width="100" height="50"></td>
+				<td>工作经验：</td>
+				<td width="100" height="50"></td>
+			</tr>
+			<tr>
+				<td>学历：</td>
+				<td width="100" height="50"></td>
+				
+				<td>专业：</td>
+				<td width="100" height="50"></td>
+				<td>毕业学校：</td>
+				<td width="100" height="50"></td>
+			</tr>
+			<tr>
+				<td>住址：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>电子邮箱：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>求职意向：</td>
+				<td height="50"></td>
+			</tr>
+	    </table>
+	    <hr width="800" align="center">
+	    <table align="center" width="800">
+	        <tr>
+				<td>目标职位</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>目标行业：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>期望薪资：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>期望地区：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>爱好特长：</td>
+				<td height="50"></td>
+			</tr>
+		</table>
+			
+		<hr width="800" align="center">
+		
+		<h4 align="left"> 自我评价</h4>
+		
+		<hr width="800" align="center">
+		<table align="center" width="800">
+		</table>
+ 
+ 
+	   </table>
+	</div>
+</body>
+</html>
+css:
+body{
+		background: url(../img/bg2.jpg);
+    }
+ 
+div{
+	border:50px;
+	border-radius: 5px;
+	background: url(../img/b1.jpg);
+	position: 80px;
+	background-size: 100% auto;
+	width: 65%;
+	height: 100%;
+	margin-left:auto;
+	margin-right:auto
+   }  
+ p{
+ 	 font-size:40px;
+   }  
+ h4{
+ 	font-size: 15px;
+ 	padding-left: 26px;
+   }
+ ———————————————— 
+版权声明：本文为CSDN博主「IT_zxl001」的原创文章，遵循CC 4.0 by-sa版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/IT_zxl001/article/details/79811874

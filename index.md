@@ -10,11 +10,13 @@
 </td>
 </tr>
 <tr align="center">
-<td width="200">姓名</td>
+<td width="150">姓名</td>
 <td width="200">XX</td>
+<td width="150">国籍</td>
+<td width="200">中国</td>
 <td><img src="./yuwenhao.png"></td>
 </tr>
-<tr align="center" width="200">
+<tr align="center">
 <td>性别</td>
 <td>XX</td>
 <td>年龄</td>

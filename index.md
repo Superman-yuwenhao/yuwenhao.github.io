@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -63,15 +62,15 @@
                       ⑧前台框架技术：熟练掌握vue.js</td>
     </tr>
     <tr>
-      <td colspan="4"><strong>项目经历</strong>
-                      ①项目名称：教务管理系统，
-                      ②项目模块：基本信息、培养方案、选课管理、教学安排、考试事务、认证考试、学生成绩、校外考试、权限管理；
-                      ③项目工程搭建：maven创建base工程、创建jw工程；
-                      ④项目层面：api层、rpc层、uri层、web层；
-                      ⑤项目启动：首先启动zookeeper,然后编写rpc和uri的接口,启动dubbo；
-                      ⑥模块任务：培养方案、学生成绩、书籍管理；
-                      ⑦项目技术：spring框架、springMVC框架、MyBatis框架；
-                      ⑧前端技术: Vue.js前端框架；
+      <td colspan="4"><strong>项目经历</strong><br/>
+                      ①项目名称：教务管理系统<br/>
+                      ②项目模块：基本信息、培养方案、选课管理、教学安排、考试事务、认证考试、学生成绩、校外考试、权限管理；<br/>
+                      ③项目工程搭建：maven创建base工程、创建jw工程；<br/>
+                      ④项目层面：api层、rpc层、uri层、web层；<br/>
+                      ⑤项目启动：首先启动zookeeper,然后编写rpc和uri的接口,启动dubbo；<br/>
+                      ⑥模块任务：培养方案、学生成绩、书籍管理；<br/>
+                      ⑦项目技术：spring框架、springMVC框架、MyBatis框架；<br/>
+                      ⑧前端技术: Vue.js前端框架；<br/>
                       ⑨工作细节：在岗期间接手辽宁金融学院的项目开发，工作期间和金融学院负责人进行开发沟通，了解整个教务系统的操作流程与业务逻辑，负责 培养方案模块、学生成绩模块的开发，辽宁金融学院由我负责部署，在部署上传到TeamViewer之前由我负责测试，确认无bug后由我通过上TeamViewer上传至学院服务器上，再与金融学院确认</td>
     </tr>
     <tr>

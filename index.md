@@ -54,8 +54,8 @@
     </tr>
     <tr>
       <td colspan="4"><strong>技术掌握</strong>；
-                      ①语言：熟练掌握java语言；②前端：了解html5、javaScript、jQuery、Ajax前端技术；
-                      ③熟练使用：Eclipse工具、SVN工具、TeamViewer工具；④数据库相关：熟练掌握Mysql、Oracle；
+                      ①语言：熟练掌握java语言；②前端：了解html5、javaScript、jQuery、Ajax前端技术；<br/>
+                      ③熟练使用：Eclipse工具、SVN工具、TeamViewer工具；④数据库相关：熟练掌握Mysql、Oracle；<br/>
                       ⑤熟练使用Tomcat进行Web应用的开发；
                       ⑥操作系统：掌握windows,系统命令：Linux基础命令；
                       ⑦后台框架技术：熟练掌握SSM；

@@ -15,7 +15,7 @@
     <td width="200">于文昊</td>
     <td width="150">国籍</td>
     <td width="200">中国</td>
-    <th rowspan="5"><img src="./yuwenhao.png"></th>
+    <th width="200" rowspan="5"><img src="./yuwenhao.png"></th>
     </tr>
     <tr align="center">
     <td width="225">性别</td>

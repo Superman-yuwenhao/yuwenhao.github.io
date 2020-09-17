@@ -11,17 +11,17 @@
     </td>
     </tr>
     <tr align="center">
-    <td width="100">姓名</td>
-    <td width="100">于文昊</td>
-    <td width="100">国籍</td>
-    <td width="100">中国</td>
+    <td width="150">姓名</td>
+    <td width="200">于文昊</td>
+    <td width="150">国籍</td>
+    <td width="200">中国</td>
     <td width="200" rowspan="5"><img src="./yuwenhao.png"></td>
     </tr>
     <tr align="center">
-    <td width="100">性别</td>
-    <td width="100">男</td>
-    <td width="100">生日</td>
-    <td width="100">1992.04.04</td>
+    <td width="225">性别</td>
+    <td width="225">男</td>
+    <td width="225">生日</td>
+    <td width="225">1992.04.04</td>
     </tr>
     <tr align="center">
     <td>目前所在地</td>

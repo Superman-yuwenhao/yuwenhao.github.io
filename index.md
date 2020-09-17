@@ -63,19 +63,7 @@
                       ⑧组件库:element-ui、iview-ui、mint-ui、MUI、uni-ui
         </td>
     </tr>
-    <tr>
-      <td colspan="4"><strong>项目1</strong><br/>
-                      ①项目名称：教务管理系统(前后端)<br/>
-                      ②负责模块：培养方案、学生成绩、书籍管理、综合测评 <br/>
-                      ③前端项目技术：vue前端框架+iview-ui组件库 <br/>
-                      ④后端项目技术：spring框架、springMVC框架、MyBatis框架
-        
-       </td>
-    </tr>
     
-    <tr>
-      <td colspan="5">个人总结：为人稳重、大方,认真对待工作,开朗自信,有优良的团队精神,强烈的责任心,良好的沟通能力, 学习能力较强,有较强的上进心,积极适应工作环境, 能处理同事间的关系, 能够与同事共同进步</td>
-    </tr>
   </table>
 </body>
 </html>

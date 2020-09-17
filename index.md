@@ -63,7 +63,18 @@
                       ⑧组件库:element-ui、iview-ui、mint-ui、MUI、uni-ui
         </td>
     </tr>
-    
+    <tr>
+      <td colspan="4"><strong>技术掌握</strong> <br/>
+                      ①语言：掌握java语言 <br/>
+                      ②前端：html5、javaScript、css、jQuery、Ajax <br/>
+                      ③开发工具：VsCode、HBuilder、Eclipse、idea <br/>
+                      ④数据库：Mysql、Oracle、了解mongodb <br/>
+                      ⑤管理工具：git、svn、maven <br/>
+                      ⑥前台框架：熟练掌握vue.js <br/>
+                      ⑦后台框架：Spring、SpringMvc、myBatis <br/>
+                      ⑧组件库:element-ui、iview-ui、mint-ui、MUI、uni-ui
+        </td>
+    </tr>
   </table>
 </body>
 </html>

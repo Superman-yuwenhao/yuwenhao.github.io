@@ -31,7 +31,7 @@
     </tr>
     <tr align="center">
     <td>户口所在地</td>
-    <td>山东省</td>
+    <td>抚顺市</td>
     <td>身高</td>
     <td>178cm</td>
     </tr>

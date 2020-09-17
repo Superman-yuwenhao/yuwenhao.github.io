@@ -2,12 +2,13 @@
 <head>
     <meta charset="UTF-8">
     <title>个人简历</title>
-</head>
-    <style>
+ <style>
     .aaa{
         color:red
         }
     </style>
+</head>
+   
 <body>
     <table>
     <tr>

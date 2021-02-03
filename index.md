@@ -56,18 +56,18 @@
                       ①语言：java语言 <br/>
                       ②前端：html5、javaScript、CSS、jQuery、Ajax <br/>
                       ③开发工具：VsCode、HBuilder、Eclipse、idea <br/>
-                      ④数据库：Mysql、Oracle、了解Mongodb <br/>
+                      ④数据库：Mysql、Oracle <br/>
                       ⑤管理工具：Git、SVN、Maven <br/>
-                      ⑥前台框架：Vue <br/>
-                      ⑦后台框架：Spring、SpringMvc、MyBatis <br/>
-                      ⑧组件库:element-ui、iview-ui、Mint-ui、MUI、uni-ui <br/>
+                      ⑥前台框架：Vue、react（自学） <br/>
+                      ⑦后台框架：Spring、SpringMvc、MyBatis、SpringBoot <br/>
+                      ⑧组件库:element-ui、iview-ui、Mint-ui、MUI、uni-ui、antdesign <br/>
                       ⑨接口测试工具：Postman、Swagger
         </td>
     </tr>
     <tr>
       <td colspan="4"><strong>项目1</strong> <br/>
-                      ①项目名称：教务管理系统(前后端) <br/>
-                      ②负责模块：培养方案、学生成绩、教材管理、综合测评 <br/>
+                      ①项目名称：辽宁金融教务管理系统(后台管理端) <br/>
+                      ②负责模块：用户管理、培养方案、选课管理、教材管理、认证考试、学生成绩、综合测评、新闻管理 <br/>
                       ③前端技术：vue、iview组件<br/>
                       ④后台技术：Spring、SpringMvc、MyBatis<br/>
         </td>
@@ -76,14 +76,15 @@
       <td colspan="4"><strong>项目2</strong> <br/>
                       ①项目名称：书籍管理(手机前端) <br/>
                       ②负责模块：书籍信息、书籍视频、书籍购买、书籍评论 <br/>
-                      ③前端技术：Vue、Mint-ui和MUI组件、CSS和CSS3布局 <br/>
+                      ③前端技术：Vue、Mint-ui和MUI组件 <br/>
         </td>
     </tr>
     <tr>
       <td colspan="4"><strong>项目3</strong> <br/>
-                      ①项目名称：微信小程序(前端) <br/>
-                      ②负责模块：图片布局、地图、天气预报、音乐播放、下载、二维码 <br/>
-                      ③前端技术：Vue、Uni—App的Uni—UI、CSS和CSS3布局<br/>
+                      ①项目名称：辽宁装备继续教育教学平台（后台管理端） <br/>
+                      ②负责模块：用户管理、课程管理、CMS管理、资源管理、试题管理、试卷管理 <br/>
+                      ③前端技术：vue、element-ui组件<br/>
+                      ④后台技术：SpringBoot、MyBatis<br/>
         </td>
     </tr>
   </table>

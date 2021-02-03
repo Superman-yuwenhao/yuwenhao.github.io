@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <title>个人简历</title>
 </head>
-<body>
+<body style="width:100%">
     <table style="width:100%" border="1" cellpadding="0" cellspacing="3" align="center" bgcolor="#33333">
     <tr align="center" >
     <td align="center" colspan="5">

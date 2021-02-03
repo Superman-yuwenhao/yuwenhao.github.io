@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td colspan="4"><strong>项目1</strong> <br/>
-                      ①项目名称：辽宁金融教务管理系统(后台管理端) <br/>
+                      ①项目名称：辽宁金融教务管理系统 <br/>
                       ②负责模块：用户管理、培养方案、选课管理、教材管理、认证考试、学生成绩、综合测评、新闻管理 <br/>
                       ③前端技术：vue、iview组件<br/>
                       ④后台技术：Spring、SpringMvc、MyBatis<br/>
@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td colspan="4"><strong>项目3</strong> <br/>
-                      ①项目名称：辽宁装备继续教育教学平台（后台管理端） <br/>
+                      ①项目名称：辽宁装备继续教育教学平台 <br/>
                       ②负责模块：用户管理、课程管理、CMS管理、资源管理、试题管理、试卷管理 <br/>
                       ③前端技术：vue、element-ui组件<br/>
                       ④后台技术：SpringBoot、MyBatis<br/>
